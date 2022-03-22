@@ -8,7 +8,7 @@ Hyper Pong image gallery |
 
 ### **Hyper Pong**  
 
-Our firts group project was to develop a Pong game with our own touch, 2 gamemodes and a local saveprogress was the demands. this is the final form of our doing. all graphic assets was made by me and the music and soundeffects by Andreas Jonasson. our third member was our senpai Luca salmi thatprimary focused on the code itself.
+Our first group project was to develop a Pong game with our own touch, 2 gamemodes and a local saveprogress was the demands. this is the final form of our doing. All graphical assets was made by me and the music and soundeffects by Andreas Jonasson. our third member was our senpai Luca salmi that primary focused on the code itself.
 my prio in this work was the engine behaviour, the UI/UX design and as i mentioned, the graphics. Give it a try and enjoy our epic game! ps. we added ingame currency.👽🤖✨
 
 ## [Bomber Jack - The grumpy pirate](https://github.com/LucaSalmi/BomberMan)
