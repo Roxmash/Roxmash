@@ -36,12 +36,8 @@ NotePad v2.0 image gallery |
 This is my first notepad app with a banana theme. it got all the basics needs.
 you can write/save/delete notes. read them and edit them. all that with lots and lots of bananas, enjoy! 🍌🥸🍌
 
-## [Graphic Images]
-
-image gallery |
-:-----------------------:|
-<img src="https://cdn.discordapp.com/attachments/889417057689559060/955789864039755786/Oliver_fortnite_poster_FINAL.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789722779811880/player_new_style.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789652596523028/league_of_loosers.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789652382605312/gui_ability_palceholder.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789652151910420/gamers_unite_white.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789651891859496/gamers_unite_pink_n_purple.png" width="15%"></img> 
-### **Images**
+## Graphic Images
+<img src="https://cdn.discordapp.com/attachments/889417057689559060/955789864039755786/Oliver_fortnite_poster_FINAL.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789722779811880/player_new_style.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789652596523028/league_of_loosers.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789652382605312/gui_ability_palceholder.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789652151910420/gamers_unite_white.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789651891859496/gamers_unite_pink_n_purple.png" width="15%"></img> |
 
 I've drawn all my assets in Adobe Photoshop here are som more graphical assets i've drawn, hope you like them.
 
