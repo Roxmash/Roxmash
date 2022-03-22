@@ -11,11 +11,18 @@ Hyper Pong image gallery |
 Our firts group project was to develop a Pong game with our own touch, 2 gamemodes and a local saveprogress was the demands. this is the final form of our doing. all graphic assets was made by me and the music and soundeffects by Andreas Jonasson. our third member was our senpai Luca salmi thatprimary focused on the code itself.
 my prio in this work was the engine behaviour, the UI/UX design and as i mentioned, the graphics. Give it a try and enjoy our epic game! ps. we added ingame currency ;)
 
-## [Trivia Quiz](https://github.com/sarahparah/triviaquiz)
+## [Bomber Jack - The grumpy pirate](https://github.com/sarahparah/triviaquiz)
 
-Trivia Quiz image gallery |
+Bomber Jack image gallery |
+
 :-----------------------:|
-<img src="https://cdn.discordapp.com/attachments/940202792675606548/955487738658979891/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.12.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487742186356766/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.18.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487740181491812/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.06.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487740613509181/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.00.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487741699837973/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.37.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487741129425026/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.45.png" width="15%"></img>
+<img src="https://cdn.discordapp.com/attachments/889417057689559060/955789651648581632/Game_Title.png" width="90%"></img> 
+
+:-----------------------:|
+<img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927905546260/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.42.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927486095400/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.38.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927028932648/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.34.png" width="30%"></img> 
+
+
+:-----------------------:|
 
 ### **Trivia Quiz** 
 
