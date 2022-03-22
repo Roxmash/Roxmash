@@ -11,23 +11,24 @@ Hyper Pong image gallery |
 Our firts group project was to develop a Pong game with our own touch, 2 gamemodes and a local saveprogress was the demands. this is the final form of our doing. all graphic assets was made by me and the music and soundeffects by Andreas Jonasson. our third member was our senpai Luca salmi thatprimary focused on the code itself.
 my prio in this work was the engine behaviour, the UI/UX design and as i mentioned, the graphics. Give it a try and enjoy our epic game! ps. we added ingame currency ;)
 
-## [Bomber Jack - The grumpy pirate](https://github.com/sarahparah/triviaquiz)
+## [Bomber Jack - The grumpy pirate](https://github.com/LucaSalmi/BomberMan)
 
 Bomber Jack image gallery |
 
 :-----------------------:|
 <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789651648581632/Game_Title.png" width="90%"></img> 
-<img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927905546260/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.42.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927486095400/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.38.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927028932648/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.34.png" width="30%"></img> 
+<img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927905546260/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.42.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927486095400/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.38.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927028932648/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.34.png" width="30%"></img>
 
+<img src="https://cdn.discordapp.com/attachments/889417057689559060/955789947464454194/pirateJackAnimation.gif" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789724054867978/tree_medium_style_3.png" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789723836747796/sword_swing_right.png" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789931534516255/boom_gif.gif" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789947086995507/running_madman.gif" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789963616718888/map_discovery.gif" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789970881273886/firepit.gif" width="13%"></img> 
 
 :-----------------------:|
 
-### **Trivia Quiz** 
+### **Bomber Jack** 
 
-A colorful trivia app that I worked on together with a couple of classmates for our Swift course. It's a lightweight trivia app that uses the triviadb API to fetch and display questions with answers. We also implemented coredata to save and display highscore as well as functionality to revisit an old Quiz to see 
-what you got right / wrong during your playthrough! 
+An new version of the classic bomberman game. Pirate theme with exitement, fun, exploring and horrifing deaths. A Swift IOS project made from me and 3 classmates.
+i've done 99% of the graphics and focused mostly on UI design using SwiftUI and its animation tools. 
 
-## [Basic NotePad application built in Java](https://github.com/officialskum/NotePad_v2.0)
+## [Ba na Notes](https://github.com/officialskum/NotePad_v2.0)
 
 NotePad v2.0 image gallery |
 :-----------------------:|
