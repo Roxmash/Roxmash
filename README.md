@@ -4,7 +4,7 @@
 
 Hyper Pong image gallery |
 :-----------------------:|
-<img src="https://cdn.discordapp.com/attachments/889417057689559060/955789575589089311/Screenshot_1647945076.png" width="15%"></img> <img src="![image](https://user-images.githubusercontent.com/90765247/159472592-d6fbb046-9d1b-4204-8671-cc332df53a7f.png)"></img> <img src="https://cdn.discordapp.com/attachments/372703682375974924/955625793613074442/Screenshot_20220322_013232.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955765305685213184/Screenshot_20220322_013238.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955765302887579738/Screenshot_20220322_013406.png" width="15%"></img> 
+<img src="https://cdn.discordapp.com/attachments/889417057689559060/955789575589089311/Screenshot_1647945076.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789578227314788/Screenshot_1647945090.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789586414571580/Screenshot_1647945259.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789585248550952/Screenshot_1647945225.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789573139611738/Screenshot_1647945191.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789571256361000/Screenshot_1647945213.png" width="30%"></img> 
 
 ### **Hyper Pong**  
 
