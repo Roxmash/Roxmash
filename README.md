@@ -17,8 +17,6 @@ Bomber Jack image gallery |
 
 :-----------------------:|
 <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789651648581632/Game_Title.png" width="90%"></img> 
-
-:-----------------------:|
 <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927905546260/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.42.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927486095400/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.38.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927028932648/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.34.png" width="30%"></img> 
 
 
