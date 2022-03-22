@@ -9,43 +9,30 @@ Hyper Pong image gallery |
 ### **Hyper Pong**  
 
 Our firts group project was to develop a Pong game with our own touch, 2 gamemodes and a local saveprogress was the demands. this is the final form of our doing. all graphic assets was made by me and the music and soundeffects by Andreas Jonasson. our third member was our senpai Luca salmi thatprimary focused on the code itself.
-my prio in this work was the engine behaviour, the UI/UX design and as i mentioned, the graphics. Give it a try and enjoy our epic game! ps. we added ingame currency ;)
+my prio in this work was the engine behaviour, the UI/UX design and as i mentioned, the graphics. Give it a try and enjoy our epic game! ps. we added ingame currency.👽🤖✨
 
 ## [Bomber Jack - The grumpy pirate](https://github.com/LucaSalmi/BomberMan)
 
 Bomber Jack image gallery |
-
 :-----------------------:|
 <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789651648581632/Game_Title.png" width="90%"></img> 
-<img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927905546260/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.42.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927486095400/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.38.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927028932648/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.34.png" width="30%"></img>
-
-<img src="https://cdn.discordapp.com/attachments/889417057689559060/955789947464454194/pirateJackAnimation.gif" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789724054867978/tree_medium_style_3.png" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789723836747796/sword_swing_right.png" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789931534516255/boom_gif.gif" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789947086995507/running_madman.gif" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789963616718888/map_discovery.gif" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789970881273886/firepit.gif" width="13%"></img> 
-
-:-----------------------:|
+<img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927905546260/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.42.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927486095400/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.38.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798927028932648/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.34.png" width="30%"></img> 
+<img src="https://cdn.discordapp.com/attachments/889417057689559060/955798928224301056/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.54.53.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798929365164042/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.56.10.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798929751044136/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.56.16.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798955608907786/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.58.07.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798955998994444/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.58.10.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955798956284215356/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.58.13.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955799016749289492/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_12.59.26.png" width="30%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955799017701404703/Simulator_Screen_Shot_-_iPhone_11_-_2022-03-22_at_13.00.04.png" width="30%"></img> |
+<img src="https://cdn.discordapp.com/attachments/889417057689559060/955789947464454194/pirateJackAnimation.gif" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789724054867978/tree_medium_style_3.png" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789723836747796/sword_swing_right.png" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789931534516255/boom_gif.gif" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789947086995507/running_madman.gif" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789963616718888/map_discovery.gif" width="13%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789970881273886/firepit.gif" width="13%"></img> |
 
 ### **Bomber Jack** 
 
-An new version of the classic bomberman game. Pirate theme with exitement, fun, exploring and horrifing deaths. A Swift IOS project made from me and 3 classmates.
-i've done 99% of the graphics and focused mostly on UI design using SwiftUI and its animation tools. 
+An new version of the classic bomberman game. Pirate theme with exitement, fun, exploring and horrifing deaths. A Swift IOS project made by me and 3 classmates.
+i've done 99% of the graphics and focused mostly on UI design using SwiftUI and its animation tools. ☠️🦜🏴‍☠️
 
-## [Ba na Notes](https://github.com/officialskum/NotePad_v2.0)
+## [Ba na Notes](https://github.com/Roxmash/individuellt_arbete_ba_na_note)
 
 NotePad v2.0 image gallery |
 :-----------------------:|
-<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511722272239647/NotePad_startscreen.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/372703682375974924/955511722045759498/DeleteAlert.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/372703682375974924/955511721794105394/Anteckningssida.png" width="15%"></img> 
+<img src="https://cdn.discordapp.com/attachments/889417057689559060/955789612310208512/Screenshot_1647945632.png" width="23%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789613639827456/Screenshot_1647945451.png" width="23%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789614331854858/Screenshot_1647945466.png" width="23%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955789614541598770/Screenshot_1647945470.png" width="23%"></img>  
 
-### **NotePad v2.0**
+### **Ba Na Notes**
 
-A lightweight (and slightly bland) notepad app I've made for my Java course at KYH! The UI so far is quite basic but it has all the necessary functionality 
-with a save/load function as well as a delete function to boot. Something I'm looking to work further on a rainy day. 😎
+This is my first notepad app with a banana theme. it got all the basics needs.
+you can write/save/delete notes. read them and edit them. all that with lots and lots of bananas, enjoy! 🍌🥸🍌
 
-## [Basic Weather application built in SwiftUI](https://github.com/officialskum/WeatherApp_SwiftUi-)
-
-SwiftUI WeatherApp image gallery |
-:-----------------------:|
-<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511681423900683/Bluscreen.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/372703682375974924/955511681738489866/nightScreen.png" width="15%"></img> 
-
-### **SwiftUI WeatherApp**
-
-A vibrant and colorful weather application made with SwiftUI. Has a simple gradient colorscheme with a toggle button for day/night mode. Will have to work 
-further on it to implement a proper API so it can finally be put to use! ☔
