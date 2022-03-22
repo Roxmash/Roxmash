@@ -1,6 +1,6 @@
 ## Hampus Brandtman Portfolio 
 
-## [Hyper Pong v1.5](https://github.com/LucaSalmi/HyperPongGruppB/) 
+## [Hyper Pong](https://github.com/LucaSalmi/HyperPongGruppB/) 
 
 Hyper Pong image gallery |
 :-----------------------:|
